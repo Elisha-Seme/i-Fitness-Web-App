@@ -1,0 +1,131 @@
+
+        /* Ensure navbar stays on top */
+    .navbar.fixed-top {
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+    }
+
+
+
+    /* Hover Effect */
+    .navbar-nav .nav-link:hover {
+        color: #ffd700 !important; /* Goldish color on hover */
+    }
+    body {
+        background-color: #004d40;
+        color: #b8b8b8;
+        font-family: 'Roboto', sans-serif;
+  
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        
+        color: #c9a335; /* Goldish color for headings */
+        padding: 10px; /* Adjust padding as needed */
+        border-radius: 8px; /* Rounded corners for headings */
+    }
+
+    .jumbotron {
+        background-color: #004d40;
+        color: #b8b8b8;
+    }
+
+    header#about {
+        background-color: #004d40;
+        
+        color: #b8b8b8; /* Ensure text color contrasts with background */
+        padding: 40px 0; /* Adjust padding as needed */
+    }
+
+    .card {
+        background: linear-gradient(145deg, #004d40, #005d50);
+        border: 1px solid #b8b8b8;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        border-radius: 12px;
+        padding: 20px;
+        margin: 15px auto; /* Adjusted margin to center horizontally */
+        position: relative;
+        overflow: hidden;
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .card::before {
+        content: '';
+        position: absolute;
+        top: -2px;
+        bottom: -2px;
+        left: -2px;
+        right: -2px;
+        border: 2px solid rgba(200, 163, 53, 0.3);
+        border-radius: 12px;
+        pointer-events: none;
+    }
+
+    .card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+    }
+
+    .card-title {
+        color: #c9a335;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    }
+
+    footer {
+        background-color: #004d40;
+        color: #ffffff;
+    }
+
+    .btn-primary {
+        background-color: #004d40;
+        border-color: #c9a335;
+        color: #c9a335;
+    }
+
+    .btn-primary:hover {
+        background-color: #004d40;
+        color: #b8b8b8 !important;
+    }
+
+    .btn-success {
+        background-color: #155724;
+        border-color: #155724;
+    }
+
+    .btn-info {
+        background-color: #b8b8b8;
+        border-color: #b8b8b8;
+        color: #004d40;
+    }
+
+    .modal-content {
+        background-color: #004d40;
+        color: #b8b8b8;
+    }
+
+    .table {
+        color: #b8b8b8;
+        border-color: #c9a335;
+    }
+
+    .table th {
+        color: #b8b8b8;
+    }
+
+    .table thead th {
+        border-bottom: 2px solid #c9a335;
+    }
+
+    .table tbody td {
+        border-top: 1px solid #c9a335;
+    }
+
+    .table tbody tr:hover {
+        background-color: #005d50;
+    }
+
+    .exercise-gif {
+        max-width: 100%;
+        height: auto;
+    }

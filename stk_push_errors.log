@@ -1,0 +1,35 @@
+2024-07-10 10:49:52: Array
+(
+    [requestId] => f1e2-4b95-a71d-b30d3cdbb7a7784923
+    [errorCode] => 400.002.02
+    [errorMessage] => Bad Request - Invalid PhoneNumber
+)
+
+2024-07-10 12:17:03: Array
+(
+    [requestId] => 2654-4b64-97ff-b827b542881d12725
+    [errorCode] => 400.002.02
+    [errorMessage] => Bad Request - Invalid PhoneNumber
+)
+
+2024-07-10 12:19:00: Array
+(
+    [requestId] => 7071-4170-a0e4-8345632bad441502007
+    [errorCode] => 400.002.02
+    [errorMessage] => Bad Request - Invalid PhoneNumber
+)
+
+2024-07-11 07:01:45: Array
+(
+    [requestId] => 1c5b-4ba8-815c-ac45c57a3db01517015
+    [errorCode] => 400.002.02
+    [errorMessage] => Bad Request - Invalid PhoneNumber
+)
+
+2024-07-11 08:21:41: Array
+(
+    [requestId] => 7071-4170-a0e4-8345632bad441515559
+    [errorCode] => 400.002.02
+    [errorMessage] => Bad Request - Invalid PhoneNumber
+)
+

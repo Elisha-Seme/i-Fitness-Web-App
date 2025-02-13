@@ -1,0 +1,542 @@
+[18-May-2024 12:00:53 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:00:53 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:00:54 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:00:54 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:02:10 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:02:10 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:02:12 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:02:12 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:06:52 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:06:52 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:06:55 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:06:55 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:06:55 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:06:55 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:06:56 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:06:56 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:06:58 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:06:58 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:06:59 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:06:59 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:07:01 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:07:01 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:07:02 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:07:02 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:08:19 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:08:19 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:08:21 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:08:21 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:12:10 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:12:10 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:12:11 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:12:11 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:12:53 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:12:53 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:12:54 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:12:54 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:13:01 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:13:01 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:13:02 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:13:02 Africa/Nairobi] Session refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:13:09 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:13:09 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:13:10 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[18-May-2024 12:13:10 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:13:10 Africa/Nairobi] Session refresh token: 
+[18-May-2024 12:15:14 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:15:14 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:15:15 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[18-May-2024 12:15:15 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:15:16 Africa/Nairobi] Session refresh token: 
+[18-May-2024 12:15:58 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:15:58 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:15:59 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:15:59 Africa/Nairobi] Session refresh token: 
+[18-May-2024 12:16:49 Africa/Nairobi] Initial access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:16:49 Africa/Nairobi] Initial refresh token: b900aec41aee1ded5097b8e67c1b9a0d5d0c624e
+[18-May-2024 12:16:50 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[18-May-2024 12:16:50 Africa/Nairobi] Session access token: b0294e934cde0ba2fb596034b9e48369df763890
+[18-May-2024 12:16:50 Africa/Nairobi] Session refresh token: 
+[18-May-2024 12:44:02 Africa/Nairobi] Initial access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[18-May-2024 12:44:02 Africa/Nairobi] Initial refresh token: 
+[18-May-2024 12:44:05 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[18-May-2024 12:44:05 Africa/Nairobi] Session access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[18-May-2024 12:44:05 Africa/Nairobi] Session refresh token: 
+[18-May-2024 13:13:15 Africa/Nairobi] Initial access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[18-May-2024 13:13:15 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[18-May-2024 13:13:16 Africa/Nairobi] Session access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[18-May-2024 13:13:16 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[18-May-2024 13:14:30 Africa/Nairobi] Initial access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[18-May-2024 13:14:30 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[18-May-2024 13:14:32 Africa/Nairobi] Session access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[18-May-2024 13:14:32 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[18-May-2024 13:17:53 Africa/Nairobi] Initial access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[18-May-2024 13:17:53 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[18-May-2024 13:17:54 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[18-May-2024 13:17:54 Africa/Nairobi] Session access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[18-May-2024 13:17:54 Africa/Nairobi] Session refresh token: 
+[19-May-2024 17:28:05 Africa/Nairobi] Initial access token: 7f237680e64a9223ce288aa95ad130a117e749f7
+[19-May-2024 17:28:05 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[19-May-2024 17:28:06 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[19-May-2024 17:28:07 Africa/Nairobi] New access token: 89d26c31a986258b93a26a87fa35dc41096ffbf8
+[19-May-2024 17:28:07 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[19-May-2024 17:28:07 Africa/Nairobi] Session access token: 89d26c31a986258b93a26a87fa35dc41096ffbf8
+[19-May-2024 17:28:07 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:14:45 Africa/Nairobi] Initial access token: 89d26c31a986258b93a26a87fa35dc41096ffbf8
+[20-May-2024 06:14:45 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:14:47 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[20-May-2024 06:14:48 Africa/Nairobi] New access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:14:48 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:14:48 Africa/Nairobi] Session access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:14:48 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:18:43 Africa/Nairobi] Initial access token: 89d26c31a986258b93a26a87fa35dc41096ffbf8
+[20-May-2024 06:18:43 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:18:44 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[20-May-2024 06:18:45 Africa/Nairobi] New access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:18:45 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:18:45 Africa/Nairobi] Session access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:18:45 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:18:45 Africa/Nairobi] Initial access token: 89d26c31a986258b93a26a87fa35dc41096ffbf8
+[20-May-2024 06:18:45 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:18:46 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[20-May-2024 06:18:47 Africa/Nairobi] New access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:18:47 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:18:47 Africa/Nairobi] Session access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:18:47 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:18:47 Africa/Nairobi] Initial access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:18:47 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:18:48 Africa/Nairobi] Session access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:18:48 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:39:54 Africa/Nairobi] Initial access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:39:54 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:39:55 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[20-May-2024 06:39:55 Africa/Nairobi] Session access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:39:55 Africa/Nairobi] Session refresh token: 
+[20-May-2024 06:39:55 Africa/Nairobi] Initial access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:39:55 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 06:39:56 Africa/Nairobi] Session access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 06:39:56 Africa/Nairobi] Session refresh token: 
+[20-May-2024 15:56:09 Africa/Nairobi] Initial access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 15:56:09 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 15:56:10 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[20-May-2024 15:56:11 Africa/Nairobi] New access token: 706c3383d57558d7e120c8b15594d13ea3f5b5e0
+[20-May-2024 15:56:11 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 15:56:11 Africa/Nairobi] Session access token: 706c3383d57558d7e120c8b15594d13ea3f5b5e0
+[20-May-2024 15:56:11 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 16:25:46 Africa/Nairobi] Initial access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 16:25:46 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 16:25:47 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[20-May-2024 16:25:48 Africa/Nairobi] New access token: 706c3383d57558d7e120c8b15594d13ea3f5b5e0
+[20-May-2024 16:25:48 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 16:25:48 Africa/Nairobi] Session access token: 706c3383d57558d7e120c8b15594d13ea3f5b5e0
+[20-May-2024 16:25:48 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 16:52:20 Africa/Nairobi] Initial access token: 17d81242c6ddaeb1d8a935ef772c8413fd90d711
+[20-May-2024 16:52:20 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 16:52:21 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[20-May-2024 16:52:22 Africa/Nairobi] New access token: 706c3383d57558d7e120c8b15594d13ea3f5b5e0
+[20-May-2024 16:52:22 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[20-May-2024 16:52:22 Africa/Nairobi] Session access token: 706c3383d57558d7e120c8b15594d13ea3f5b5e0
+[20-May-2024 16:52:22 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 09:43:26 Africa/Nairobi] Initial access token: 706c3383d57558d7e120c8b15594d13ea3f5b5e0
+[21-May-2024 09:43:26 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 09:43:27 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[21-May-2024 09:43:28 Africa/Nairobi] New access token: 5db9294714f743e32a660f6549bc6c1fad2aba89
+[21-May-2024 09:43:28 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 09:43:28 Africa/Nairobi] Session access token: 5db9294714f743e32a660f6549bc6c1fad2aba89
+[21-May-2024 09:43:28 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 14:38:03 Africa/Nairobi] Initial access token: 706c3383d57558d7e120c8b15594d13ea3f5b5e0
+[21-May-2024 14:38:03 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 14:38:04 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[21-May-2024 14:38:05 Africa/Nairobi] New access token: 5db9294714f743e32a660f6549bc6c1fad2aba89
+[21-May-2024 14:38:05 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 14:38:05 Africa/Nairobi] Session access token: 5db9294714f743e32a660f6549bc6c1fad2aba89
+[21-May-2024 14:38:05 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 14:54:53 Africa/Nairobi] Initial access token: 5db9294714f743e32a660f6549bc6c1fad2aba89
+[21-May-2024 14:54:53 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 14:54:54 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[21-May-2024 14:54:54 Africa/Nairobi] Session access token: 5db9294714f743e32a660f6549bc6c1fad2aba89
+[21-May-2024 14:54:54 Africa/Nairobi] Session refresh token: 
+[21-May-2024 15:57:29 Africa/Nairobi] Initial access token: 5db9294714f743e32a660f6549bc6c1fad2aba89
+[21-May-2024 15:57:29 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 15:57:30 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[21-May-2024 15:57:31 Africa/Nairobi] New access token: c074632a4cef880c1bef7a98a75a2d8d14635fa5
+[21-May-2024 15:57:31 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 15:57:31 Africa/Nairobi] Session access token: c074632a4cef880c1bef7a98a75a2d8d14635fa5
+[21-May-2024 15:57:31 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 16:03:00 Africa/Nairobi] Initial access token: c074632a4cef880c1bef7a98a75a2d8d14635fa5
+[21-May-2024 16:03:00 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[21-May-2024 16:03:23 Africa/Nairobi] Session access token: c074632a4cef880c1bef7a98a75a2d8d14635fa5
+[21-May-2024 16:03:23 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[22-May-2024 13:06:49 Africa/Nairobi] Initial access token: c074632a4cef880c1bef7a98a75a2d8d14635fa5
+[22-May-2024 13:06:49 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[22-May-2024 13:07:38 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[22-May-2024 13:08:34 Africa/Nairobi] Error refreshing access token: HTTP code - 0, cURL error - Recv failure: Connection was reset, Response - 
+[22-May-2024 13:08:34 Africa/Nairobi] Session access token: c074632a4cef880c1bef7a98a75a2d8d14635fa5
+[22-May-2024 13:08:34 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[22-May-2024 13:08:34 Africa/Nairobi] Initial access token: c074632a4cef880c1bef7a98a75a2d8d14635fa5
+[22-May-2024 13:08:34 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[22-May-2024 13:08:35 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[22-May-2024 13:08:36 Africa/Nairobi] New access token: 9efb26625859ee319716a1b7f96320df6a69959c
+[22-May-2024 13:08:36 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[22-May-2024 13:08:36 Africa/Nairobi] Session access token: 9efb26625859ee319716a1b7f96320df6a69959c
+[22-May-2024 13:08:36 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[22-May-2024 13:27:11 Africa/Nairobi] Initial access token: 9efb26625859ee319716a1b7f96320df6a69959c
+[22-May-2024 13:27:11 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[22-May-2024 13:27:12 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[22-May-2024 13:27:12 Africa/Nairobi] Session access token: 9efb26625859ee319716a1b7f96320df6a69959c
+[22-May-2024 13:27:12 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:42:08 Africa/Nairobi] Initial access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[04-Jul-2024 16:42:08 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:42:09 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:42:10 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:42:10 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[04-Jul-2024 16:42:10 Africa/Nairobi] Session access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[04-Jul-2024 16:42:10 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:42:32 Africa/Nairobi] Initial access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:42:32 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:42:34 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:42:36 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:42:36 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[04-Jul-2024 16:42:36 Africa/Nairobi] Session access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:42:36 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:51:19 Africa/Nairobi] Initial access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:51:19 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:51:21 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:51:23 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:51:23 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[04-Jul-2024 16:51:23 Africa/Nairobi] Session access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:51:23 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:51:37 Africa/Nairobi] Initial access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:51:37 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:51:38 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:51:39 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:51:39 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[04-Jul-2024 16:51:39 Africa/Nairobi] Session access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:51:39 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:51:46 Africa/Nairobi] Initial access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:51:46 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:51:47 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:51:47 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:51:47 Africa/Nairobi] Session access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:51:47 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:51:52 Africa/Nairobi] Initial access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:51:52 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:51:52 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:51:54 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:51:54 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[04-Jul-2024 16:51:54 Africa/Nairobi] Session access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:51:54 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:52:03 Africa/Nairobi] Initial access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:52:03 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:52:03 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:52:05 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:52:05 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[04-Jul-2024 16:52:05 Africa/Nairobi] Session access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:52:05 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:52:09 Africa/Nairobi] Initial access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:52:09 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:52:10 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:52:10 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:52:10 Africa/Nairobi] Session access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:52:10 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:52:14 Africa/Nairobi] Initial access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:52:14 Africa/Nairobi] Initial refresh token: 
+[04-Jul-2024 16:52:14 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:52:15 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[04-Jul-2024 16:52:15 Africa/Nairobi] Session access token: 379d27f28dc136b2b34f6beef9738d289846e96d
+[04-Jul-2024 16:52:15 Africa/Nairobi] Session refresh token: 
+[04-Jul-2024 16:56:06 Africa/Nairobi] Initial access token: 9efb26625859ee319716a1b7f96320df6a69959c
+[04-Jul-2024 16:56:06 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[04-Jul-2024 16:56:07 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[04-Jul-2024 16:56:08 Africa/Nairobi] New access token: d7b7e347014724ea8ba1e6056920d039287ff4f3
+[04-Jul-2024 16:56:08 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[04-Jul-2024 16:56:08 Africa/Nairobi] Session access token: d7b7e347014724ea8ba1e6056920d039287ff4f3
+[04-Jul-2024 16:56:08 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[08-Jul-2024 10:46:13 Africa/Nairobi] Initial access token: 9efb26625859ee319716a1b7f96320df6a69959c
+[08-Jul-2024 10:46:13 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[08-Jul-2024 10:46:17 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[08-Jul-2024 10:46:19 Africa/Nairobi] New access token: c3eab5433a802d1d5f719e45db1d6aab6bc7a2b4
+[08-Jul-2024 10:46:19 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[08-Jul-2024 10:46:19 Africa/Nairobi] Session access token: c3eab5433a802d1d5f719e45db1d6aab6bc7a2b4
+[08-Jul-2024 10:46:19 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[08-Jul-2024 11:14:02 Africa/Nairobi] Initial access token: c3eab5433a802d1d5f719e45db1d6aab6bc7a2b4
+[08-Jul-2024 11:14:02 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[08-Jul-2024 11:14:04 Africa/Nairobi] Session access token: c3eab5433a802d1d5f719e45db1d6aab6bc7a2b4
+[08-Jul-2024 11:14:04 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[08-Jul-2024 11:19:01 Africa/Nairobi] Initial access token: c3eab5433a802d1d5f719e45db1d6aab6bc7a2b4
+[08-Jul-2024 11:19:01 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[08-Jul-2024 11:19:01 Africa/Nairobi] Session access token: c3eab5433a802d1d5f719e45db1d6aab6bc7a2b4
+[08-Jul-2024 11:19:01 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[09-Jul-2024 13:59:23 Africa/Nairobi] Initial access token: c3eab5433a802d1d5f719e45db1d6aab6bc7a2b4
+[09-Jul-2024 13:59:23 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[09-Jul-2024 13:59:25 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[09-Jul-2024 13:59:26 Africa/Nairobi] New access token: a96bd04509ab15091aaf9c41803c53d515657e53
+[09-Jul-2024 13:59:26 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[09-Jul-2024 13:59:26 Africa/Nairobi] Session access token: a96bd04509ab15091aaf9c41803c53d515657e53
+[09-Jul-2024 13:59:26 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 09:17:12 Africa/Nairobi] Initial access token: a96bd04509ab15091aaf9c41803c53d515657e53
+[10-Jul-2024 09:17:12 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 09:17:13 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[10-Jul-2024 09:17:14 Africa/Nairobi] New access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 09:17:14 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 09:17:14 Africa/Nairobi] Session access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 09:17:14 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 10:55:31 Africa/Nairobi] Initial access token: a96bd04509ab15091aaf9c41803c53d515657e53
+[10-Jul-2024 10:55:31 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 10:55:31 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[10-Jul-2024 10:55:32 Africa/Nairobi] New access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 10:55:32 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 10:55:32 Africa/Nairobi] Session access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 10:55:32 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 11:39:44 Africa/Nairobi] Initial access token: a96bd04509ab15091aaf9c41803c53d515657e53
+[10-Jul-2024 11:39:44 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 11:39:45 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[10-Jul-2024 11:39:47 Africa/Nairobi] New access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 11:39:47 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 11:39:47 Africa/Nairobi] Session access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 11:39:47 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 13:05:59 Africa/Nairobi] Initial access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:05:59 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 13:06:00 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[10-Jul-2024 13:06:00 Africa/Nairobi] Session access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:06:00 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 13:06:59 Africa/Nairobi] Initial access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:06:59 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 13:07:00 Africa/Nairobi] Session access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:07:00 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 13:16:40 Africa/Nairobi] Initial access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:16:40 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 13:16:41 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[10-Jul-2024 13:16:41 Africa/Nairobi] Session access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:16:41 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 13:53:09 Africa/Nairobi] Initial access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:53:09 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 13:53:10 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 115
+[10-Jul-2024 13:53:10 Africa/Nairobi] Session access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:53:10 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 13:54:08 Africa/Nairobi] Initial access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:54:08 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 13:54:09 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in C:\xampp\htdocs\ifitness\login.php on line 116
+[10-Jul-2024 13:54:09 Africa/Nairobi] Session access token: b36d1fe7c4e4550a53d60e041380d1fc7adf7bfd
+[10-Jul-2024 13:54:09 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 14:18:45 Africa/Nairobi] Initial access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[10-Jul-2024 14:18:45 Africa/Nairobi] Initial refresh token: 
+[10-Jul-2024 14:18:46 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[10-Jul-2024 14:18:46 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[10-Jul-2024 14:18:46 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[10-Jul-2024 14:18:46 Africa/Nairobi] Session access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[10-Jul-2024 14:18:46 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 14:21:49 Africa/Nairobi] Initial access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[10-Jul-2024 14:21:49 Africa/Nairobi] Initial refresh token: 
+[10-Jul-2024 14:21:49 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[10-Jul-2024 14:21:49 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[10-Jul-2024 14:21:49 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[10-Jul-2024 14:21:49 Africa/Nairobi] Session access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[10-Jul-2024 14:21:49 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 14:27:55 Africa/Nairobi] Initial access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[10-Jul-2024 14:27:55 Africa/Nairobi] Initial refresh token: 
+[10-Jul-2024 14:27:56 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[10-Jul-2024 14:27:56 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[10-Jul-2024 14:27:56 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[10-Jul-2024 14:27:56 Africa/Nairobi] Session access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[10-Jul-2024 14:27:56 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 14:28:43 Africa/Nairobi] Initial access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[10-Jul-2024 14:28:43 Africa/Nairobi] Initial refresh token: 
+[10-Jul-2024 14:28:43 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[10-Jul-2024 14:28:44 Africa/Nairobi] Error refreshing access token: HTTP code - 400, cURL error - , Response - {"message":"Bad Request","errors":[{"resource":"RefreshToken","field":"refresh_token","code":"invalid"}]}
+[10-Jul-2024 14:28:44 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[10-Jul-2024 14:28:44 Africa/Nairobi] Session access token: 35d9c51f909a20f70eac56f34c80407dcdb5f75c
+[10-Jul-2024 14:28:44 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 14:32:09 Africa/Nairobi] Initial access token: 5d3ec3a0a395e884618f9df81c11819547abc09c
+[10-Jul-2024 14:32:09 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 14:32:09 Africa/Nairobi] Session access token: 5d3ec3a0a395e884618f9df81c11819547abc09c
+[10-Jul-2024 14:32:09 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 14:36:44 Africa/Nairobi] Initial access token: 5d3ec3a0a395e884618f9df81c11819547abc09c
+[10-Jul-2024 14:36:44 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 14:36:44 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[10-Jul-2024 14:36:44 Africa/Nairobi] Session access token: 5d3ec3a0a395e884618f9df81c11819547abc09c
+[10-Jul-2024 14:36:44 Africa/Nairobi] Session refresh token: 
+[10-Jul-2024 14:46:42 Africa/Nairobi] Initial access token: 5d3ec3a0a395e884618f9df81c11819547abc09c
+[10-Jul-2024 14:46:42 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[10-Jul-2024 14:46:42 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[10-Jul-2024 14:46:42 Africa/Nairobi] Session access token: 5d3ec3a0a395e884618f9df81c11819547abc09c
+[10-Jul-2024 14:46:42 Africa/Nairobi] Session refresh token: 
+[11-Jul-2024 09:31:18 Africa/Nairobi] Initial access token: 5d3ec3a0a395e884618f9df81c11819547abc09c
+[11-Jul-2024 09:31:18 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 09:31:19 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[11-Jul-2024 09:31:19 Africa/Nairobi] New access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 09:31:19 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 09:31:19 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 09:31:19 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 09:46:03 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 09:46:03 Africa/Nairobi] Initial refresh token: 
+[11-Jul-2024 09:46:03 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[11-Jul-2024 09:46:03 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 09:46:03 Africa/Nairobi] Session refresh token: 
+[11-Jul-2024 09:53:53 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 09:53:53 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 09:53:53 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 09:53:53 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 10:07:55 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 10:07:55 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 10:07:56 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 10:07:56 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 10:37:10 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 10:37:10 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 10:37:11 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[11-Jul-2024 10:37:11 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 10:37:11 Africa/Nairobi] Session refresh token: 
+[11-Jul-2024 11:21:22 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 11:21:22 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 11:21:23 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[11-Jul-2024 11:21:23 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 11:21:23 Africa/Nairobi] Session refresh token: 
+[11-Jul-2024 14:10:42 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 14:10:42 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 14:10:43 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 14:10:43 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 14:10:46 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 14:10:46 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 14:10:46 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 14:10:46 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 14:13:07 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 14:13:07 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 14:13:08 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[11-Jul-2024 14:13:08 Africa/Nairobi] Session access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 14:13:08 Africa/Nairobi] Session refresh token: 
+[11-Jul-2024 20:40:57 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 20:40:57 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 20:40:57 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[11-Jul-2024 20:40:57 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[11-Jul-2024 20:40:57 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 20:40:58 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[11-Jul-2024 20:40:59 Africa/Nairobi] New access token: f794b6db6440092d63b90845656d45112c920141
+[11-Jul-2024 20:40:59 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[11-Jul-2024 20:40:59 Africa/Nairobi] Session access token: f794b6db6440092d63b90845656d45112c920141
+[11-Jul-2024 20:40:59 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 10:58:23 Africa/Nairobi] Initial access token: a361a8f2caf6935f63fa0b5a9cd3ec2045972059
+[12-Jul-2024 10:58:23 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 10:58:24 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[12-Jul-2024 10:58:24 Africa/Nairobi] New access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 10:58:24 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 10:58:24 Africa/Nairobi] Session access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 10:58:24 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 12:29:25 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 12:29:25 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 12:29:25 Africa/Nairobi] Session access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 12:29:25 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 13:42:02 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 13:42:02 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 13:42:02 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[12-Jul-2024 13:42:02 Africa/Nairobi] Session access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 13:42:02 Africa/Nairobi] Session refresh token: 
+[12-Jul-2024 13:42:03 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 13:42:03 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 13:42:03 Africa/Nairobi] Session access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 13:42:03 Africa/Nairobi] Session refresh token: 
+[12-Jul-2024 14:00:17 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 14:00:17 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 14:00:18 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[12-Jul-2024 14:00:18 Africa/Nairobi] Session access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 14:00:18 Africa/Nairobi] Session refresh token: 
+[12-Jul-2024 14:00:18 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 14:00:18 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Jul-2024 14:00:18 Africa/Nairobi] Session access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[12-Jul-2024 14:00:18 Africa/Nairobi] Session refresh token: 
+[14-Jul-2024 13:35:31 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[14-Jul-2024 13:35:31 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[14-Jul-2024 13:35:31 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[14-Jul-2024 13:35:32 Africa/Nairobi] New access token: e7654807c1e9cd625126b86676a4107589d39ddb
+[14-Jul-2024 13:35:32 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[14-Jul-2024 13:35:32 Africa/Nairobi] Session access token: e7654807c1e9cd625126b86676a4107589d39ddb
+[14-Jul-2024 13:35:32 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 10:11:07 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[15-Jul-2024 10:11:07 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 10:11:08 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[15-Jul-2024 10:11:08 Africa/Nairobi] New access token: 5a4fe9b2019e8323c644e8b26317bda83a9e091b
+[15-Jul-2024 10:11:08 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 10:11:08 Africa/Nairobi] Session access token: 5a4fe9b2019e8323c644e8b26317bda83a9e091b
+[15-Jul-2024 10:11:08 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 17:39:35 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[15-Jul-2024 17:39:35 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 17:39:36 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[15-Jul-2024 17:39:36 Africa/Nairobi] New access token: 630259446663a6f661ee797677cc04b50bebfd63
+[15-Jul-2024 17:39:36 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 17:39:36 Africa/Nairobi] Session access token: 630259446663a6f661ee797677cc04b50bebfd63
+[15-Jul-2024 17:39:36 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 17:39:36 Africa/Nairobi] Initial access token: 3deac5d9a0dae5811caf28163d00d61a42f553fb
+[15-Jul-2024 17:39:36 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 17:39:37 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[15-Jul-2024 17:39:37 Africa/Nairobi] New access token: 630259446663a6f661ee797677cc04b50bebfd63
+[15-Jul-2024 17:39:37 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[15-Jul-2024 17:39:37 Africa/Nairobi] Session access token: 630259446663a6f661ee797677cc04b50bebfd63
+[15-Jul-2024 17:39:37 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[16-Jul-2024 15:04:26 Africa/Nairobi] Initial access token: 630259446663a6f661ee797677cc04b50bebfd63
+[16-Jul-2024 15:04:26 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[16-Jul-2024 15:04:27 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[16-Jul-2024 15:04:27 Africa/Nairobi] New access token: 95c04aa3bf10e2006cf384e8f6a6aa27f9eba484
+[16-Jul-2024 15:04:27 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[16-Jul-2024 15:04:27 Africa/Nairobi] Session access token: 95c04aa3bf10e2006cf384e8f6a6aa27f9eba484
+[16-Jul-2024 15:04:27 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[16-Jul-2024 15:04:27 Africa/Nairobi] Initial access token: 630259446663a6f661ee797677cc04b50bebfd63
+[16-Jul-2024 15:04:27 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[16-Jul-2024 15:04:27 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[16-Jul-2024 15:04:28 Africa/Nairobi] New access token: 95c04aa3bf10e2006cf384e8f6a6aa27f9eba484
+[16-Jul-2024 15:04:28 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[16-Jul-2024 15:04:28 Africa/Nairobi] Session access token: 95c04aa3bf10e2006cf384e8f6a6aa27f9eba484
+[16-Jul-2024 15:04:28 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[17-Jul-2024 09:12:56 Africa/Nairobi] Initial access token: de6f455bf2396fcf84f09a0a70fd17c4e5bc2ab5
+[17-Jul-2024 09:12:56 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[17-Jul-2024 09:12:57 Africa/Nairobi] Session access token: de6f455bf2396fcf84f09a0a70fd17c4e5bc2ab5
+[17-Jul-2024 09:12:57 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Aug-2024 20:18:08 Africa/Nairobi] Initial access token: 95c04aa3bf10e2006cf384e8f6a6aa27f9eba484
+[12-Aug-2024 20:18:08 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Aug-2024 20:18:08 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[12-Aug-2024 20:18:09 Africa/Nairobi] New access token: 71053be8fca3d67bc15d78f88f464e6f67015d0e
+[12-Aug-2024 20:18:09 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[12-Aug-2024 20:18:09 Africa/Nairobi] Session access token: 71053be8fca3d67bc15d78f88f464e6f67015d0e
+[12-Aug-2024 20:18:09 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[01-Oct-2024 09:00:41 Africa/Nairobi] Initial access token: 95c04aa3bf10e2006cf384e8f6a6aa27f9eba484
+[01-Oct-2024 09:00:41 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[01-Oct-2024 09:00:41 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[01-Oct-2024 09:00:42 Africa/Nairobi] New access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[01-Oct-2024 09:00:42 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[01-Oct-2024 09:00:42 Africa/Nairobi] Session access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[01-Oct-2024 09:00:42 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[01-Oct-2024 10:41:16 Africa/Nairobi] Initial access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[01-Oct-2024 10:41:16 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[01-Oct-2024 10:41:16 Africa/Nairobi] Session access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[01-Oct-2024 10:41:16 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[01-Oct-2024 11:42:04 Africa/Nairobi] Initial access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[01-Oct-2024 11:42:04 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[01-Oct-2024 11:42:05 Africa/Nairobi] PHP Warning:  Undefined array key "refresh_token" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/login.php on line 116
+[01-Oct-2024 11:42:05 Africa/Nairobi] Session access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[01-Oct-2024 11:42:05 Africa/Nairobi] Session refresh token: 
+[02-Oct-2024 09:06:25 Africa/Nairobi] Initial access token: 95c04aa3bf10e2006cf384e8f6a6aa27f9eba484
+[02-Oct-2024 09:06:25 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[02-Oct-2024 09:06:26 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[02-Oct-2024 09:06:26 Africa/Nairobi] New access token: ce821891bad1ecd27574b28703af77c2ff60700a
+[02-Oct-2024 09:06:26 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[02-Oct-2024 09:06:26 Africa/Nairobi] Session access token: ce821891bad1ecd27574b28703af77c2ff60700a
+[02-Oct-2024 09:06:26 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[02-Oct-2024 09:07:12 Africa/Nairobi] Initial access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[02-Oct-2024 09:07:12 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[02-Oct-2024 09:07:13 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[02-Oct-2024 09:07:13 Africa/Nairobi] New access token: ce821891bad1ecd27574b28703af77c2ff60700a
+[02-Oct-2024 09:07:13 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[02-Oct-2024 09:07:13 Africa/Nairobi] Session access token: ce821891bad1ecd27574b28703af77c2ff60700a
+[02-Oct-2024 09:07:13 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[14-Jan-2025 10:23:42 Africa/Nairobi] Initial access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[14-Jan-2025 10:23:42 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[14-Jan-2025 10:23:43 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[14-Jan-2025 10:23:43 Africa/Nairobi] New access token: edcf0c799507988e3f4eb4fc5948e89f908c57dc
+[14-Jan-2025 10:23:43 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[14-Jan-2025 10:23:43 Africa/Nairobi] Session access token: edcf0c799507988e3f4eb4fc5948e89f908c57dc
+[14-Jan-2025 10:23:43 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[14-Jan-2025 17:36:41 Africa/Nairobi] Initial access token: 670ce1555ff0fbc3ae94d3f423d4b1763841b8ad
+[14-Jan-2025 17:36:41 Africa/Nairobi] Initial refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[14-Jan-2025 17:36:41 Africa/Nairobi] Error validating access token: HTTP code - 401, cURL error - , Response - {"message":"Authorization Error","errors":[{"resource":"Athlete","field":"access_token","code":"invalid"}]}
+[14-Jan-2025 17:36:41 Africa/Nairobi] New access token: 6b461dfd09f67eb5cfb7c1bb8aa0ef887dd4b92a
+[14-Jan-2025 17:36:41 Africa/Nairobi] New refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36
+[14-Jan-2025 17:36:41 Africa/Nairobi] Session access token: 6b461dfd09f67eb5cfb7c1bb8aa0ef887dd4b92a
+[14-Jan-2025 17:36:41 Africa/Nairobi] Session refresh token: ffa578a8fb9241bbf1a68399401c4748789d2b36

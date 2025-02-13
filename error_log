@@ -1,0 +1,6 @@
+[10-Jul-2024 11:31:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/register_process.php:35) in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/register_process.php on line 38
+[11-Jul-2024 06:50:36 UTC] PHP Warning:  Undefined array key "username" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/strava_callback.php on line 48
+[11-Jul-2024 11:01:53 UTC] PHP Warning:  Undefined array key "username" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/strava_callback.php on line 48
+[12-Jul-2024 09:29:16 UTC] PHP Warning:  Undefined array key "username" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/strava_callback.php on line 48
+[17-Jul-2024 06:12:16 UTC] PHP Warning:  Undefined array key "username" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/strava_callback.php on line 48
+[01-Oct-2024 07:39:30 UTC] PHP Warning:  Undefined array key "username" in /home/jamakeop/i-fitness-antler-pitch.amiruhamachurchwarabamedicalcentre.com/strava_callback.php on line 48

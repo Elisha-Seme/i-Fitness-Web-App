@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>i-Fitness</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="styles.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="logo.png">
+
+
+</head>
+
+<body>
+
+<!-- Navigation Bar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <!-- Branding and Logo -->
+        <a class="navbar-brand" href="#"> <img src="logo.png" alt="i-Fitness Logo" style="max-height: 40px;"><strong> i-Fitness</strong></a>
+
+
+        <!-- Navbar Toggler for Mobile -->
+        <button class="navbar-toggler" type="button" id="navbarToggler">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Navbar Links -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#about" style="color: #b8b8b8;">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#features" style="color: #b8b8b8;">Features</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#pricing" style="color: #b8b8b8;">Pricing</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact" style="color: #b8b8b8;">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="register_strava.php" style="color: #b8b8b8;">Register With Strava</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="login.php" style="color: #b8b8b8;">Login</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Placeholder for logo image -->
+<img src="logo.png" alt="i-Fitness Logo" style="display: none;">
+
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var navbarToggler = document.getElementById('navbarToggler');
+            var navbarNav = document.getElementById('navbarNav');
+
+            navbarToggler.addEventListener('click', function () {
+                navbarNav.classList.toggle('show');
+            });
+        });
+    </script>
+
+    <!-- Header -->
+<header id="about" class="jumbotron text-center">
+    <div class="container">
+        <h1>Welcome to <br><strong> i-Fitness</strong></h1>
+        <p>Achieve. Earn. Repeat.</p>
+    </div>
+    <div class="container mt-5"> <!-- Add top margin to create space below header -->
+        <div class="row justify-content-center">
+            <div class="col-4 col-md-2 mb-4 d-flex flex-column align-items-center">
+                <i class="fas fa-dumbbell fa-lg"></i>
+                <span>Gym</span>
+            </div>
+            <div class="col-4 col-md-2 mb-4 d-flex flex-column align-items-center">
+                <i class="fas fa-running fa-lg"></i>
+                <span>Running</span>
+            </div>
+            <div class="col-4 col-md-2 mb-4 d-flex flex-column align-items-center">
+                <i class="fas fa-bicycle fa-lg"></i>
+                <span>Cycling</span>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+    <!-- About Section -->
+   <section id="about" class="py-5">
+    <div class="container card shadow-lg p-4 mb-5">
+        <div class="row">
+            <div class="col-lg-6">
+                <h2 class="card-title">About i-Fitness</h2>
+                <p class="card-text">The most common problem in a fitness journey, is inconsistency due to lack of sustained motivation, At i-Fitness help individuals solve that using our "Reverse Reward" concept. Users set daily fitness goals linked to financial deposits. Achieving goals earns back part of the deposit, while misses result in forfeiture. This incentivizes consistent exercise, integrating with popular apps and sensors for detailed tracking and personalized goals.</p>
+                <a href="register_strava.php" class="btn btn-primary btn-lg mt-3 mb-3">Get Started</a>
+            </div>
+
+            <div class="col-lg-6">
+                <img src="about.jpg" class="img-fluid" style="width: 100%; height: auto;" alt="Fitness Image">
+            </div>
+        </div>
+    </div>
+</section>
+
+    <!-- Features Section -->
+    <section id="features" class="py-5">
+        <div class="container card shadow-lg p-4 mb-5">
+            <h2 class="text-center mb-5">Features</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="feature-item text-center mb-4 card p-3 shadow-sm">
+                        <i class="fas fa-heartbeat fa-3x mb-3"></i>
+                        <h4>Track Your Activities</h4>
+                        <p>Sync your Strava account with i-Fitness to track your daily activities effortlessly.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="feature-item text-center mb-4 card p-3 shadow-sm">
+                        <i class="fas fa-bullseye fa-3x mb-3"></i>
+                        <h4>Set Personalized Goals</h4>
+                        <p>Create personalized daily goals, then stake money that will be divided by days of a month.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="feature-item text-center mb-4 card p-3 shadow-sm">
+                        <i class="fas fa-money-bill-wave fa-3x mb-3"></i>
+                        <h4>Earn Rewards</h4>
+                        <p>Every day you meet your goals, you earn back a portion of your money meant-as-goal that day.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="py-5">
+        <div class="container card shadow-lg p-4 mb-5">
+            <h2 class="text-center mb-5">Pricing</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card mb-4 shadow-sm">
+                        <div class="card-header">
+                            Basic Plan
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">$30/month</h3>
+                            <ul class="list-unstyled">
+                                <li>Access to all features</li>
+                                <li>Monthly goal setting</li>
+                                <li>Monetary rewards</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card mb-4 shadow-sm">
+                        <div class="card-header">
+                            Premium Plan
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">$50/month</h3>
+                            <ul class="list-unstyled">
+                                <li>Access to all features</li>
+                                <li>Monthly goal setting</li>
+                                <li>Monetary rewards</li>
+                                <li>Priority support</li>
+                                <li>Exclusive webinars</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-5">
+        <div class="container card shadow-lg p-4 mb-5">
+            <h2 class="text-center mb-5">Contact Us</h2>
+            <p class="text-center mb-4">We'd love to hear from you! Reach out to us with any questions or feedback.</p>
+            <ul class="list-inline text-center">
+                <li class="list-inline-item mx-3">
+                    <a href="#"><i class="fas fa-envelope fa-2x"></i> elishaseme99@gmail.com</a>
+                </li>
+                <li class="list-inline-item mx-3">
+                    <a href="#"><i class="fas fa-phone fa-2x"></i> 0791007848</a>
+                </li>
+                <li class="list-inline-item mx-3">
+                    <a href="#"><i class="fas fa-map-marker-alt fa-2x"></i> Nairobi</a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-4">
+        <div class="container text-center">
+            <p>&copy; <span id="currentYear"></span> i-Fitness. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Get the current year
+        var currentYear = new Date().getFullYear();
+
+        // Update the content of the span element with id "currentYear"
+        document.getElementById('currentYear').textContent = currentYear;
+    </script>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
